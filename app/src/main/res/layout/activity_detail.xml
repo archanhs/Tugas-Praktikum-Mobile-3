@@ -21,5 +21,13 @@
         android:text="deskripsi"
         android:gravity="center"
         android:id="@+id/deskripsi"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Share"
+        android:textSize="20dp"
+        android:layout_marginTop="25dp"
+        android:id="@+id/share"/>
 
 </LinearLayout>
